@@ -1,6 +1,6 @@
 FROM nginx
 
-ENV AUTHOR=HARVSAMRA
+ENV AUTHOR=hsamra14
 
 WORKDIR /usr/share/nginx/html
 
